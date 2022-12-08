@@ -12,6 +12,7 @@ ServerlessRedirector
 │   │   └── language2
 │   │       └── code
 │   └── FunctionalityX.2
+├── VendorY
 ```
 
 ## Resources
