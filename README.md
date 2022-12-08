@@ -1,7 +1,18 @@
 # ServerlessRedirector
 Serverless Redirector in various cloud vendors for red teaming
 
+## Repository Structure 
 
+```
+ServerlessRedirector
+├── VendorX
+│   ├── FunctionalityX.1
+│   │   ├── language1
+│   │   │   └── code
+│   │   └── language2
+│   │       └── code
+│   └── FunctionalityX.2
+```
 
 ## Resources
 ### AWS 
